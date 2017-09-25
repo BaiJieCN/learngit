@@ -11,3 +11,5 @@ High level Features :
 - As a vote participator, you can response to the vote 
 - As a vote participator, you can check the vote result
 
+by Bai Jie
+
